@@ -1,0 +1,72 @@
+header section {
+    header title
+    header title 2 
+    header image
+}
+
+info section {
+    info title
+    info title 2 
+    info title 3 
+    info paragraph
+    info paragraph 2
+    statictics[
+        name:value int
+        name:value int
+        name:value int
+        can be more
+    ]
+    pdf
+}
+
+vision section{
+    vision title
+    vision sentance
+    vision discription
+    vision image
+}
+
+mission section {
+    mission title
+    mission sentance
+    mission discription
+    mission image
+
+}
+
+core values section{
+    core values title
+    core values[
+        title:descriptions
+        title:descriptions
+        title:descriptions
+        title:descriptions
+        title:descriptions
+        can be more .
+    ]
+}
+
+chairman section {
+    chairman title
+    chairman  sentance 
+    chairman description
+    chairman image
+    chairman discription
+
+}
+
+last section {
+    title
+    title 1
+    title 2
+}
+
+
+
+
+serializer validator {
+    title  
+    discription
+    image
+    pdf
+}
